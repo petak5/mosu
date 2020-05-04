@@ -20,8 +20,8 @@
 
 ### Tweaks for the best performance
 - disable mouse acceleration (if you want to play with mouse)
-  - [Mouse Acceleration](https://github.com/petak5/mosublob/master/resources/mouseaccelerationpref13-rc.zip) is an easy to use System Preferences plugin tool
-- disable VSync / BeamSync (inspired by [this]() and [this]())
+  - [Mouse Acceleration](https://github.com/petak5/mosu/blob/master/resources/mouseaccelerationpref13-rc.zip) is an easy to use System Preferences plugin tool
+- disable VSync / BeamSync (inspired by [this](https://www.reddit.com/r/osugame/comments/2zkw84/tips_for_osx_users_to_improve_performance/) and [this](https://www.reddit.com/r/macgaming/comments/3l3mp2/anyone_know_how_to_turn_off_beamsync_on_el_capitan/))
   - when playing on dual monitors, the framerate is locked to 60FPS (the monitor's refresh rate)
   - disabling VSync always gives you less input lag
   - download [Graphics Tools](https://developer.apple.com/download/more/?name=Graphics%20Tools) for your version of Xcode (will install many tool, all we need is Quatz Debug)
